@@ -54,7 +54,6 @@ body {
 
 .divider {
     position: relative;
-    bottom: 25px;
     justify-self: center;
     margin: 0;
     width: 95%;
@@ -64,6 +63,7 @@ body {
 .dice {
     width: 60px;
     height: 60px;
+    top: 35px;
     background-color: #53ffa9;
     z-index: 2;
     position: relative;
