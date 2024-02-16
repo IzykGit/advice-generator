@@ -50,6 +50,8 @@ body {
     height: 150px;
     color: white;
     margin: 0;
+    position: relative;
+    top: 10px;
 }
 
 .divider {
@@ -57,6 +59,7 @@ body {
     justify-self: center;
     margin: 0;
     width: 95%;
+    top: 15px;
     
 }
 
